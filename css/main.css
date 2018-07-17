@@ -1,0 +1,13 @@
+h4.card-title {
+    text-transform: capitalize;
+}
+.saving {
+    background-color: yellow;
+}
+.card-header {
+    background-color: #1f2021;
+}
+.save_button {
+    background-color: #2b542c;
+    border-radius: 5px;
+}

@@ -1,0 +1,11 @@
+{
+  "1":{"action":"Play Sound","resource":""},
+  "2":{"action":"Play Sound","resource":"other.wav"},
+  "3":{"action":"Play Sound","resource":"res.wav"},
+  "4":{"action":"No Action","resource":"res.wav"},
+  "5":{"action":"Play Sound","resource":"res.wav"},
+  "6":{"action":"Play Sound","resource":"res.wav"},
+  "7":{"action":"Play Sound","resource":"res.wav"},
+  "8":{"action":"Play Sound","resource":"res.wav"},
+  "0":{"action":"Play Sound","resource":"res.wav"}
+}
